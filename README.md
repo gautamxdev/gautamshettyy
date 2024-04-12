@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Gautam Alva</h1>
 🔭 I’m a Web/Web3 developer based in Bengaluru,India<br>🌱 I’m currently learning Web3 developement and contribuiting to open source<br>🚀 Intrested in Web3/Finance/Capital markets<br>⚡ Fun fact: Trading, finance, and tech are my jam, blending these passions into a promising future📈🚀
