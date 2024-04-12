@@ -10,6 +10,7 @@
       ⚡ Fun fact: Trading, finance, and tech are my jam, blending these passions into a promising future 📈🚀.
     </p>
   </div>
+  
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/gautamalva/" target="_blank">
