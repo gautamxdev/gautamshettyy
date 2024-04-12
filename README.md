@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Gautam Alva</h1>
-
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" />
+<!-- Content Section -->
+<div style="display: flex; align-items: center;">
+  <!-- Text Content -->
+  <div>
+    <h1>Hi 👋, I'm Gautam Alva</h1>
+    <p>
+      🔭 I’m a Web/Web3 developer based in Bengaluru, India<br>
+      🌱 I’m currently learning Web3 development and contributing to open source<br>
+      🚀 Interested in Web3/Finance/Capital markets<br>
+      ⚡ Fun fact: Trading, finance, and tech are my jam, blending these passions into a promising future 📈🚀.
+    </p>
+  </div>
+  <div style="margin-left: 20px;">
+    <img height="200" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" />
+  </div>
 </div>
-
-🔭 I’m a Web/Web3 developer based in Bengaluru, India<br>
-🌱 I’m currently learning Web3 development and contributing to open source<br>
-🚀 Interested in Web3/Finance/Capital markets<br>
-⚡ Fun fact: Trading, finance, and tech are my jam, blending these passions into a promising future 📈🚀.
 
 ## 🌐 Socials:
 <div align="left">
