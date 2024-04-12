@@ -1,3 +1,4 @@
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Gautam Alva</h1>
 🔭 I’m a Web/Web3 developer based in Bengaluru,India<br>🌱 I’m currently learning Web3 developement and contribuiting to open source<br>🚀 Intrested in Web3/Finance/Capital markets<br>⚡ Fun fact: Trading, finance, and tech are my jam, blending these passions into a promising future📈🚀
 
