@@ -1,5 +1,5 @@
 <!-- Content Section -->
-<div style="display: flex; align-items: center;">
+<div align-items: center;">
   <!-- Text Content -->
   <div>
     <h1>Hi 👋, I'm Gautam Alva</h1>
@@ -10,11 +10,6 @@
       ⚡ Fun fact: Trading, finance, and tech are my jam, blending these passions into a promising future 📈🚀.
     </p>
   </div>
-  <div style="margin-left: 20px;">
-    <img height="200" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" />
-  </div>
-</div>
-
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/gautamalva/" target="_blank">
