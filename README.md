@@ -5,7 +5,7 @@
     <h1>Hi 👋, I'm Gautam Alva</h1>
     <p>
       🔭 I’m a Full stack web developer based in Bengaluru, India<br>
-      🌱 I’m currently learning Devops and contributing to open source<br>
+      🌱 I’m currently learning Devops, Algo trading and contributing to open source<br>
       🚀 Interested in Web3/Finance/Capital markets<br>
       ⚡ Fun fact: Trading, finance, and tech are my jam, blending these passions into a promising future 📈🚀.
     </p>
