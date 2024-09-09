@@ -4,8 +4,8 @@
   <div>
     <h1>Hi 👋, I'm Gautam Alva</h1>
     <p>
-      🔭 I’m a Web/Web3 developer based in Bengaluru, India<br>
-      🌱 I’m currently learning Web3 development and contributing to open source<br>
+      🔭 I’m a Full stack web developer based in Bengaluru, India<br>
+      🌱 I’m currently learning Devops and contributing to open source<br>
       🚀 Interested in Web3/Finance/Capital markets<br>
       ⚡ Fun fact: Trading, finance, and tech are my jam, blending these passions into a promising future 📈🚀.
     </p>
