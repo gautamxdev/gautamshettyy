@@ -66,6 +66,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
 </div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316siawfx3glmdgc2rh2erfdmx7y&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=316siawfx3glmdgc2rh2erfdmx7y&redirect=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gautamshettyy&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
